@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z80EmuLib", "Z80Lib\Z80EmuLib.csproj", "{6A213ED0-0C2E-485D-A60C-D0E93691CCFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excerciser", "Excerciser\Excerciser.csproj", "{8394189C-3F1D-4589-AE8D-35EC5C742913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A213ED0-0C2E-485D-A60C-D0E93691CCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A213ED0-0C2E-485D-A60C-D0E93691CCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A213ED0-0C2E-485D-A60C-D0E93691CCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A213ED0-0C2E-485D-A60C-D0E93691CCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8394189C-3F1D-4589-AE8D-35EC5C742913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8394189C-3F1D-4589-AE8D-35EC5C742913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8394189C-3F1D-4589-AE8D-35EC5C742913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8394189C-3F1D-4589-AE8D-35EC5C742913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF87568-10E3-4297-A2AC-94481CE68BC2}
+	EndGlobalSection
+EndGlobal
